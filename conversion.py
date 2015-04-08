@@ -23,7 +23,6 @@ def cent_convert():
 	cm_to_km = float(centimeters) * 0.00001
 	print "%s centimeters. This is also\n %s inches,\n %s feet,\n %s miles,\n %s yards,\n %s millimeters,\n %s meters,\n and %s kilometers.\n" % (centimeters, cm_to_in, cm_to_ft, cm_to_mi, cm_to_yd, cm_to_mm, cm_to_m, cm_to_km)
 
-
 def inch_convert():
 	inches = raw_input("Insert an amount of Inches: ")
 	in_to_ft = float(inches) * 0.08333
