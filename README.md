@@ -1,2 +1,2 @@
-# conversion
-convert a unit to other units
+# python pratice
+use python and become better at it
